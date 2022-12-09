@@ -10,7 +10,8 @@ string path = "c:\\dokumente\\adventofcode\\adventofcode\\adventofcode\\inputs\\
 //Day5.RunDay(path);
 //Day6.RunDay(path);
 //Day7.RunDay(path);
-Day8.RunDay(path);
+//Day8.RunDay(path);
+Day9.RunDay(path);
 
 //2015
 //string path = "C:\\Dokumente\\AdventOfCode\\AdventOfCode\\AdventOfCode\\_2015\\Inputs\\inputDay" + DateTime.Now.Day + ".txt";
